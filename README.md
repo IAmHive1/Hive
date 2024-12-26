@@ -75,7 +75,7 @@ console.log(`Agent 🤖 : `, response.result.text);
 
 > [!TIP]
 >
-> Documentation is available at https://i-am-Hive.github.io/Hive-agent-framework/
+> Documentation is available at https://hive-4.gitbook.io/hive/
 
 ### Local Installation
 
@@ -113,10 +113,6 @@ The source directory (`src`) provides numerous modules that one can use.
 | **internals**                                    | Modules used by other modules within the framework.                                         |
 
 To see more in-depth explanation see [overview](/docs/overview.md).
-
-## Tutorials
-
-🚧 Coming soon 🚧
 
 ## Roadmap
 
