@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Hive Framework logo" src="/docs/assets/hive_Dark.svg" height="128">
+    <img alt="Hive Framework logo" src="/docs/assets/Hive_dark.png" height="128">
     <h1 align="center">Hive Agent Framework</h1>
 </p>
 
