@@ -11,6 +11,9 @@
 
 The Hive Agent Framework makes it easy to build scalable agent-based workflows with your model of choice. The framework is Hiven designed to perform robustly with [IBM Granite](https://www.ibm.com/granite/docs/) and [Llama 3.x](https://ai.meta.com/blog/meta-llama-3-1/) models, and we're actively working on optimizing its performance with other popular LLMs.<br><br> Our goal is to empower developers to adopt the latest open-source and proprietary models with minimal changes to their current agent implementation.
 
+[Find us on Twitter](https://x.com/Hive_FW)
+[Check out our Website](https://hivefw.com)
+
 ## Key Features
 
 - 🤖 **AI agents**: Use our powerful [Hive agent](/docs/agents.md) refined for Llama 3.1 and Granite 3.0, or [build your own](/docs/agents.md).
